@@ -9,13 +9,25 @@ folder: development-platforms
 
 ## Introduction
 
-Summarise the product's primary purpose in one or two paragraphs. gshshtsdfvoikujhfgvhjkLø-k.,
+DBaaS stands for Database-as-a-Service. DBaaS is a cloud-based service offers users a flexible and scalable on-demand platform. It is basiclly a cloud-based  service model in whicha thid-party provider hosts, manages, and provides access to database for customers over internet. It allows businessess and organizations to outsource the management of their database infrastructure to a cloud provider. 
+
+In DBaaS, the provider takes care of the database infrastructure, including hardware, software, storage, and maintenance, and provides customers with a range of management features such as database configuration, monitoring, security, and backups. This allows businesses to focus on their core activities without having to worry about the complexities of database management.
 
 ## Brief History
 
-Provide a brief history of the product, including major milestones or events.
+- DBaaS has been around for decades. Salesforce.com was first with its DBaaS in 2000s.
 
-You may use bullet points, numbered lists, paragraphs or a timeline.
+- These early providers offers simple selv-service platforms that allowed developers and small businesses to quickly and asily create and manage database     witout investing in expensive hardware or saftware.
+
+- The demand for DBaaS grew other the years and today there are many other company such Amazon, Google Miccrosoft and IBM providers like MonogoDB..etc.
+
+- In the modern development industry, it is now more common to use DBaaS than to set up and manage your own database infrastructure. This is because DBaaS   providers offer a variety of features and services that are not available with traditional self-hosted database technologies.
+
+- Amazon Web Services launched its DBaaS cloud back in 2009 as known (RDS).
+
+- Google launched its DBaas cloud service in 2008 as known (GCP.
+
+
 
 ## Features
 
