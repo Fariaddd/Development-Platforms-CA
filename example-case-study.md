@@ -9,7 +9,7 @@ folder: development-platforms
 
 ## Introduction
 
-Summarise the product's primary purpose in one or two paragraphs. gshshtsdfv
+Summarise the product's primary purpose in one or two paragraphs. gshshtsdfvoikujhfgvhjkLø-k.,
 
 ## Brief History
 
