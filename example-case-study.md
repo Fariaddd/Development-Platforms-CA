@@ -44,24 +44,53 @@ DBaas offering a couple of features which can be usefull for costumers.
 
 ## Strengths
 
-Discuss the product's strengths.
+Security
+DBaaS providers typically offer various security features, such as encryption, authentication, and access control, which can help protect the database from unauthorised access. Providers often employ a skilled team of security experts to monitor and protect the database, which can help to reduce the risk of a security breach.
+
+Scalability:
+DBaaS providers can automatically scale a database up or down to meet the changing demands of the application, which can help to improve performance and reduce costs. For example, a blog with a small monthly average readership might be featured on the front page of Reddit, initiating the infamous hug of death. Using a DBaaS provider instead of a self-hosted system, the blog owner can quickly and temporarily scale the database to handle the increased traffic without worrying about the underlying infrastructure.
+
+Flexibility:
+DBaaS providers offer a wide range of database options, such as NoSQL and SQL, which can be easily provisioned and configured to meet the specific needs of an application. Some applications may require both SQL and NoSQL databases, which can be easily provisioned and managed through a single DBaaS provider.
+
+Cost-effectiveness:
+DBaaS providers handle all of the maintenance, updates, and backups, which reduces the cost and complexity of managing a database. Self-hosted infrastructure can be expensive and time-consuming, especially for small businesses and startups. DBaaS providers offer various pricing plans that can be scaled up or down to meet the changing needs of an application.
+
+Automation:
+Many DBaaS providers offer features like automatic failover, backups and monitoring, which can help to improve the availability and resilience of the database. These features can be configured through a web-based interface or API, which can help to reduce the complexity of managing a database. This can include automatically creating new databases for customers as they sign up to a web service.
 
 ## Weaknesses
 
-Discuss the product's weaknesses.
+This si no supripising that the DBaas has its own rules when it comes to use their technology like everyone else!
+
+- Compliance Challenges: Depending on your industry and location, you may have regulatory compliance requirements that   must be met. It's important to ensure that the DBaaS provider is compliant with any relevant regulations and can       provide the necessary documentation to demonstrate compliance.
+
+- Vendor Lock-in: Once you've committed to a specific DBaaS provider, it can be difficult and expensive to switch to a   different provider or bring the     database in-house. This can result in a loss of control and flexibility over time.
+
+- Security Concerns: While DBaaS providers typically offer built-in security features, there may be concerns around the   security of your data,             particularly if you are dealing with highly sensitive or confidential information. It's         important to carefully evaluate the security features offered by the DBaaS provider and ensure that they meet your     organization's needs.
+
+- Limited control
+  DBaaS providers typically handle the management and maintenance of the underlying infrastructure, which means that     customers have less control over     the configuration and performance of the database.
 
 ## Comparison
 
-Compare the product to other products in the same category, if applicable.
+There are several DBaas Cloud services in the marked which providers. Each of them own set of fetures and cababilities.
+
+- Amazon Web Services(AWS) provides a managed database service that supports a wide range of database engines, including       MySQL, PostgreSQL and Microsoft SQL Server. AWS provides automatic backup, point-in-time recovery, automatic software       patching, it also offers several deployment options, including a single availability zone, multiple availablility zones,     or a custom configuration.
+
+- Oracle Cloud databe Services is a managed database service that supports Oracle DB and several other database engines. It   offers automatic backup point-in-tme recovery, and automated patch management. IT also provides several deployment           options, including a single region, multiple regions, or a custom configuration.
 
 ## Summary
 
-Summarise the content and highlight the relevance of the product to a web developer.
-
+DBaaS it refers to a cloud computing service model that provides users with access to a managed database without having to set up, configure or maintain the underlying infrastructure themselves. With DBaaS, users can easily create, deploy, and manage databases on the cloud, and pay for the resources they consume. The provider takes care of tasks such as backups, scaling, and security, allowing users to focus on their data and applications. Some popular DBaaS offerings include Amazon RDS, Microsoft Azure SQL Database, and Google Cloud SQL.
 ### Credits
 
-- Student Name (studentGitHubUsername)
+- Fariad Yousef  Githun-user-name (Fariaddd)
 
 #### References
 
-- List of video or links used during research
+- https://www.oracle.com/database/what-is-a-cloud-database/dbaas/
+
+- https://redis.com/blog/what-is-dbaas/
+
+- https://solidstudio.io/blog/aws-vs-oracle-cloud
