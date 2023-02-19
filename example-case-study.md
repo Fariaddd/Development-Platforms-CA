@@ -15,7 +15,7 @@ In DBaaS, the provider takes care of the database infrastructure, including hard
 
 ## Brief History
 
-- DBaaS has been around for decades. Salesforce.com was first with its DBaaS in 2000s.
+- DBaaS has been around for decades. Salesforce.com launched its concept DBaaS cloud service in 2000s.
 
 - These early providers offers simple selv-service platforms that allowed developers and small businesses to quickly and asily create and manage database     witout investing in expensive hardware or saftware.
 
@@ -31,7 +31,16 @@ In DBaaS, the provider takes care of the database infrastructure, including hard
 
 ## Features
 
-Outline the product's key features.
+DBaas offering a couple of features which can be usefull for costumers.
+1. Automatic Scaling: DBaas solutions often include automatic scaling capabilities that allow database to automaticlly   scale or down based on demand, without requring manual intervention.This can help ensure that your database always     has the necessary resources to handle incoming traffic.
+
+2. Automated Backups and Recovery: Most DBaaS offerings provide automated backup and recovery features, which can help    protect your data from accidental deletion, corruption, or other types of data loss. These backups can be performed    on a regular schedule, or triggered manually as needed.
+
+3. High Availability: Many DBaaS solutions include built-in high availability features, which can help ensure that your    database remains up and running even in the event of a hardware or software failure. This can help prevent downtime    and ensure that your applications continue to function as expected.
+
+4. Security: Security is a top concern for any database, and many DBaaS offerings include built-in security features to    help protect your data from unauthorized access. These may include features like encryption, access control, and        monitoring.
+
+5. Support for Multiple Databases: Finally, many DBaaS solutions provide support for multiple database types, such as      MySQL, MongoDB, and PostgreSQL. This can be helpful if you have multiple applications with different database          requirements, or if you need to migrate between database types.
 
 ## Strengths
 
