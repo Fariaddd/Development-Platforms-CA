@@ -85,7 +85,7 @@ There are several DBaas Cloud services in the marked which providers. Each of th
 DBaaS it refers to a cloud computing service model that provides users with access to a managed database without having to set up, configure or maintain the underlying infrastructure themselves. With DBaaS, users can easily create, deploy, and manage databases on the cloud, and pay for the resources they consume. The provider takes care of tasks such as backups, scaling, and security, allowing users to focus on their data and applications. Some popular DBaaS offerings include Amazon RDS, Microsoft Azure SQL Database, and Google Cloud SQL.
 ### Credits
 
-- Fariad Yousef  Githun-user-name (Fariaddd)
+- Fariad Yousef  Github-user-name (Fariaddd)
 
 #### References
 
